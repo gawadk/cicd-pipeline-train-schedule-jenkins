@@ -20,5 +20,4 @@ Once it is running, you can access it in a browser at [http://localhost:3000](ht
 ## Khaled
 
 
-this code should be done from AWS
-Khaled
+Testing CI/CD from github -> Jenkins(AWS) - > Elastic Beanstalk (AWS)
